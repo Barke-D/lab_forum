@@ -27,6 +27,15 @@ export const metadata: Metadata = {
   icons: {
     icon: "/assets/icons/logo.svg",
   },
+  other: {
+    "theme-color": "#0d1117",
+    "color-scheme": "light only",
+    "twitter:image": "https://ibb.co/PhjN3Cg",
+    "twitter:card": "summary_large_image",
+    "og:url": "https://digital-app.vercel.app",
+    "og:image": "https://ibb.co/PhjN3Cg",
+    "og:type": "website",
+  },
 };
 
 export default function RootLayout({
