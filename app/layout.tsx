@@ -29,10 +29,10 @@ export const metadata: Metadata = {
   },
   other: {
     "theme-color": "#0d1117",
-    "color-scheme": "light only",
+    "color-scheme": "dark only",
     "twitter:image": "https://ibb.co/PhjN3Cg",
     "twitter:card": "summary_large_image",
-    "og:url": "https://digital-app.vercel.app",
+    "og:url": "digitalized-lab.vercel.app",
     "og:image": "https://ibb.co/PhjN3Cg",
     "og:type": "website",
   },
