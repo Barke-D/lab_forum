@@ -30,10 +30,10 @@ export const metadata: Metadata = {
   other: {
     "theme-color": "#0d1117",
     "color-scheme": "dark only",
-    "twitter:image": "https://ibb.co/PhjN3Cg",
+    "twitter:image": "https://i.ibb.co/XsLbNJt/Learning-At-home.jpg",
     "twitter:card": "summary_large_image",
     "og:url": "digitalized-lab.vercel.app",
-    "og:image": "https://ibb.co/PhjN3Cg",
+    "og:image": "https://i.ibb.co/XsLbNJt/Learning-At-home.jpg",
     "og:type": "website",
   },
 };
